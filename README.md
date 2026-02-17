@@ -97,6 +97,6 @@ This project demonstrates AI capabilities directly applicable to automating moto
 
 ## Author
 
-**Parham Imanzadeh Charandabi**  
-MSc Computer Science (by Research), University of Salford  
+**Parham Imanzadeh**  
+MSc Computer Science (by Research)
 [GitHub](https://github.com/Prhm93) | pimanzadeh.ch@gmail.com
